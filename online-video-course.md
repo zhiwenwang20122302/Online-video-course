@@ -1,6 +1,6 @@
 Online-video-course
 
-*心理学*
+**心理学**
 
 [当代青年心理学（一）认识青年篇](https://www.icourse163.org/learn/SWJTU-95002?tid=1450395497#/learn/content?type=detail&id=1214910440))
 
@@ -21,7 +21,7 @@ Online-video-course
 [心理咨询理论与技术](https://www.icourse163.org/cours)
 
 
-*计算机专业课*
+**计算机专业课**
 
 [区块链技术与应用](https://www.icourse163.org/course/SWJTU-1207109825)
 
@@ -32,7 +32,7 @@ Online-video-course
 [微软亚洲研究院大数据系列讲座](https://www.icourse163.org/course/MSRA-416001)
 
 
-*其他资源*
+**其他资源**
 
 [国学经典导读](https://www.icourse163.org/course/SWJTU-1206457819)
 
