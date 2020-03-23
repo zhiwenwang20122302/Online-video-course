@@ -2,7 +2,7 @@ Online-video-course
 
 **心理学**
 
-[当代青年心理学（一）认识青年篇](https://www.icourse163.org/learn/SWJTU-95002?tid=1450395497#/learn/content?type=detail&id=1214910440))
+[当代青年心理学（一）认识青年篇](https://www.icourse163.org/learn/SWJTU-95002?tid=1450395497#/learn/content?type=detail&id=1214910440)
 
 [当代青年心理学（二）青年身心发展篇](https://www.icourse163.org/course/SWJTU-93002)
 
