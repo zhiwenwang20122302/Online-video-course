@@ -37,3 +37,13 @@ Online-video-course
 [国学经典导读](https://www.icourse163.org/course/SWJTU-1206457819)
 
 [科学与社会 微软亚洲研究院系列报告-1 周明院长](https://www.eeo.cn/live.php?lessonKey=1774fa5e5a363b74)
+
+
+**其他**
+
+Opencv知识学习
+1. 增强现实。 对于给定的墙上的相框内的图片替换成目的图像。
+https://github.com/spmallick/learnopencv/tree/master/AugmentedRealityWithArucoMarkers
+
+
+
